@@ -2,11 +2,11 @@ package main
 
 import (
 	"flag"
-	"github.com/gwuhaolin/livego/configure"
-	"github.com/gwuhaolin/livego/protocol/hls"
-	"github.com/gwuhaolin/livego/protocol/httpflv"
-	"github.com/gwuhaolin/livego/protocol/httpopera"
-	"github.com/gwuhaolin/livego/protocol/rtmp"
+	"github.com/jackistom/livego/configure"
+	"github.com/jackistom/livego/protocol/hls"
+	"github.com/jackistom/livego/protocol/httpflv"
+	"github.com/jackistom/livego/protocol/httpopera"
+	"github.com/jackistom/livego/protocol/rtmp"
 	"log"
 	"net"
 	"time"

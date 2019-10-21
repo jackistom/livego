@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"errors"
 	"fmt"
-	"github.com/gwuhaolin/livego/protocol/amf"
-	"github.com/gwuhaolin/livego/protocol/rtmp/core"
+	"github.com/jackistom/livego/protocol/amf"
+	"github.com/jackistom/livego/protocol/rtmp/core"
 	"io"
 	"log"
 )

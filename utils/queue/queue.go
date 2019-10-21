@@ -1,8 +1,8 @@
 package queue
 
 import (
+	"github.com/jackistom/livego/av"
 	"sync"
-	"github.com/gwuhaolin/livego/av"
 )
 
 // Queue is a basic FIFO queue for Messages.

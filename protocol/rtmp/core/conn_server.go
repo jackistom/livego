@@ -5,8 +5,8 @@ import (
 	"errors"
 	"io"
 
-	"github.com/gwuhaolin/livego/protocol/amf"
-	"github.com/gwuhaolin/livego/av"
+	"github.com/jackistom/livego/av"
+	"github.com/jackistom/livego/protocol/amf"
 	"log"
 )
 
